@@ -67,7 +67,7 @@ class Mass(AbstractMeasure):
     tonne = Unit("1000000", ["t", "metric ton", "metric tonne"])
     ounce = Unit("28.34952", ["oz"])
     pound = Unit("453.59237", ["lb"])
-    stone = Unit("6350.293")
+    stone = Unit("6350.293", ["st"])
     short_ton = Unit("907185.0", ["ton"])
     long_ton = Unit("1016000.0")
 
